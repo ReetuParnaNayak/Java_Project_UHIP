@@ -1,2 +1,4 @@
 myenv=PROD ONE
-driver.class-name=jdbc.odbc.driverclassname
+driver.class-name=jdbc.odbc.Oracledriver
+username=root
+password=system

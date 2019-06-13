@@ -11,6 +11,7 @@ public class WelcomeController {
         int i=10;
         int y=40;
         int sum= i+y;
+         System.out.println("Thank fhfhYou");
               
        return "Hello";
 }

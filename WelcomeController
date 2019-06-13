@@ -5,9 +5,6 @@ public class WelcomeController {
       public String welcomeMsg() {
         System.out.println("This is Ok");
         System.out.println("This is Second File");
-        System.out.println("*******************************");
-        System.out.println("Thank You");
-              
        return "Hello";
 }
 }

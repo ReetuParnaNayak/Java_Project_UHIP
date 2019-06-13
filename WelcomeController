@@ -7,6 +7,7 @@ public class WelcomeController {
         System.out.println("This is Second File");
         System.out.println("*******************************");
         System.out.println("Thank You");
+        System.out.println("Thank You");
               
        return "Hello";
 }

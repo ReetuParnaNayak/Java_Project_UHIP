@@ -3,6 +3,8 @@ public class WelcomeController {
 
     @RequestMapping("/hello")
       public String welcomeMsg() {
+        System.out.println("This is Ok");
+        System.out.println("This is Second File");
        return "Hello";
 }
 }

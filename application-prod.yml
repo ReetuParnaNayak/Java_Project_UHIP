@@ -2,3 +2,10 @@ myenv=PROD ONE
 driver.class-name=jdbc.odbc.Oracledriver
 username=root
 password=system
+
+app:
+  properties:
+    name:
+      succReg: Registration Successfully
+      failReg: Registration Failure
+ 

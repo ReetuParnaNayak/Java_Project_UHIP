@@ -1,1 +1,2 @@
 myenv=PROD ONE
+driver.class-name=jdbc.odbc.driverclassname

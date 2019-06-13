@@ -1,0 +1,9 @@
+@Controller
+public class WelcomeController {
+
+    @RequestMapping("/hello")
+      public String welcomeMsg() {
+       return "Hello";
+}
+}
+

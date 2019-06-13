@@ -8,6 +8,9 @@ public class WelcomeController {
         System.out.println("*******************************");
         System.out.println("Thank You");
         System.out.println("Thank You");
+        int i=10;
+        int y=40;
+        int sum= i+y;
               
        return "Hello";
 }
